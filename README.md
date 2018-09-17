@@ -12,5 +12,7 @@ https://github.com/mhnatiuk/crazyflie-keyboard
 
 https://www.bitcraze.io/getting-started-with-the-crazyflie-2-0/#config-client
 
+https://wiki.bitcraze.io/projects:crazyflie2:index
+
 # Status
 WIP
